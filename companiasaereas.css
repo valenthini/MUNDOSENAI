@@ -1,0 +1,22 @@
+h1 {
+    font-family:unset;
+    color: rgb(53, 3, 3);
+    text-align: center;
+}
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+body {
+    background-color: beige;
+    align-items: center;
+}
+img:hover {
+    transform: scale(1.01);
+    filter: brightness(90%)
+}
+div {
+    align-items: center;
+    text-align: center;
+}
